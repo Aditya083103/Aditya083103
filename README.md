@@ -1,5 +1,4 @@
-# 💫 About Me:
-I' m currently studying in Last Year Btech at K.J somaiya Institute of technology and I am interested in software developer, data scientist, data analyst job roles.
+# 💫 About Me
 
 
 ## 🌐 Socials:
