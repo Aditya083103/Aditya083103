@@ -32,7 +32,7 @@ class AdityaBhavsar:
         return "A demo is a hypothesis. Production is the proof."
 ```
 
-I build **agentic systems that actually get deployed** — not chatbot wrappers. Most of my day is spent on graph-based orchestration, retrieval quality, latency budgets and making sure the traces tell you *why* an agent did something at 2AM.
+I build **agentic systems that actually get deployed** — not chatbot wrappers. Most of my day is spent on graph-based orchestration, retrieval quality, latency budgets, and making sure the traces tell you *why* an agent did something at 2AM.
 
 - 🎙️ Shipped a **production voice AI framework** handling real call volume
 - 🧩 Designed a **5-agent vision + OCR + fraud-detection pipeline** with human-in-the-loop review
@@ -51,7 +51,7 @@ I build **agentic systems that actually get deployed** — not chatbot wrappers.
 ### 🏦 AIRP
 **Autonomous Investment Research Platform**
 
-An 8-agent LangGraph system that simulates a hedge fund investment committee — bull agent, bear agent, risk agent, and a moderator that forces them to reconcile before a thesis ships.
+An 8-agent LangGraph system that simulates a hedge fund investment committee — bull and bear agents debate a thesis, and a portfolio manager agent arbitrates before it ships.
 
 `LangGraph` `PostgreSQL Checkpointing` `ChromaDB`
 `FastAPI + WebSockets` `React 18 + TypeScript`
@@ -64,7 +64,7 @@ An 8-agent LangGraph system that simulates a hedge fund investment committee —
 ### 🎙️ Voice Chatbot Framework
 **Production · Multi-tenant**
 
-Real-time voice agent framework running live at meaningful call volume. Semantic caching cut redundant LLM calls; full trace-level observability on every turn.
+Real-time voice agent framework running live at meaningful call volume. Semantic caching cuts redundant LLM calls; full trace-level observability on every turn.
 
 `LangGraph` `ChromaDB RAG` `Redis Semantic Cache`
 `Azure AI Foundry` `Terraform + K8s` `LangSmith`
@@ -149,6 +149,18 @@ YOLOv8 + CNN hybrid for automated forest monitoring and tree enumeration from ae
 
 ---
 
+## 🎓 Education & Certifications
+
+<div align="center">
+
+**B.Tech, Computer Engineering** — KJ Somaiya Institute of Technology (Somaiya Vidyavihar University) · CGPA 9.05
+
+`Microsoft AI Agents Specialization` `AWS Academy Cloud Foundations` `100 Days of Code — Python` `Java Full Stack`
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -180,7 +192,7 @@ YOLOv8 + CNN hybrid for automated forest monitoring and tree enumeration from ae
 building:   AIRP v2 — better agent memory, cleaner debate resolution
 exploring:  LLM evals, guardrails, cost-aware agent routing
 reading:    papers on multi-agent coordination failures
-open_to:    GenAI / LLM / Agentic AI Engineer roles (Mumbai · Pune · Bangalore · Remote)
+open_to:    GenAI / LLM / Agentic AI Engineer roles (Mumbai · Pune · Navi Mumbai · Bengaluru · open to relocation)
 ```
 
 <div align="center">
